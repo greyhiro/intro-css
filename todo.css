@@ -1,0 +1,42 @@
+
+h1{
+  color:white;
+  text-align: center;
+  background-color: blue;
+}
+
+ul{
+  background-color: blue;
+
+}
+li{
+
+  text-align: center;
+  color: black;
+  background-color: white;
+  display:block;
+  margin:0.50em;
+  padding: 0.30em;
+  border-radius: 5px;
+
+}
+
+form{
+    background-color: blue;
+      text-align: center;
+
+}
+
+form .button{
+  border-radius: 8px;
+
+}
+
+form .saisi{
+  border-radius: 3px;
+}
+
+.formulaire{
+  background-color: blue;
+  padding-bottom: 30px;
+}
